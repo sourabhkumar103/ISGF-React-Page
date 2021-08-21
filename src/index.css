@@ -1,0 +1,53 @@
+.headbar{
+    align-items: center;
+   text-align: center;
+    color: white;
+    background-color: orange;
+    font-size: medium bold;
+    padding: 3px;
+       
+}
+
+.headerHeading {
+    text-align: center;
+    background-color: orange;
+    color: white;
+    margin: 0;
+    padding: 5px;
+    text-transform: uppercase;
+  }
+  .headerCard1 {
+    text-align: center;
+    background-color: rgb(35, 123, 182);
+    color: white;
+    margin: 0;
+    padding: 5px;
+  }
+  .headerCard2 {
+    text-align: center;
+    color: white;
+    background-color: rgb(30, 163, 81);
+    margin: 0;
+    padding: 5px;
+  }
+  .headerCard4 {
+    text-align: Center;
+    color: white;
+    background-color: green;
+    margin: 0;
+    padding: 5px;
+  }
+  .headerCard5 {
+    text-align: center;
+    color: white;
+    background-color:orange;
+    margin: 0;
+    padding: 5px;
+  }
+  .headerCard6 {
+    text-align: center;
+    color: white;
+    background-color: rgb(72, 146, 196);
+    margin: 0;
+    padding: 5px;
+  }
